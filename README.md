@@ -21,7 +21,7 @@
 ## HTML
 - [如何声明页面是HTML5页面?](https://github.com/da34/web-blog/issues/1)
 - [Doctype作用? 怪异模式和标准模式分别是什么？](https://github.com/da34/web-blog/issues/2)
-- [<meta http-equiv="X-UA-Compatible" content="IE=Edge" >](https://github.com/da34/web-blog/issues/3)
+- [meta http-equiv="X-UA-Compatible" content="IE=Edge"](https://github.com/da34/web-blog/issues/3)
 - [聊一聊页面乱码是如何产生的](https://github.com/da34/web-blog/issues/4)
 - [你了解哪些meta类型?](https://github.com/da34/web-blog/issues/5)
 - [列举你知道的全局属性](https://github.com/da34/web-blog/issues/6)
