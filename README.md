@@ -88,7 +88,8 @@
 - [什么是队列](https://github.com/da34/web-blog/issues/63)
 - [什么是链表](https://github.com/da34/web-blog/issues/64)
 - [集合是什么？](https://github.com/da34/web-blog/issues/65)
-- [字典是什么？](https://github.com/da34/web-blog/issues/65)
+- [字典是什么？](https://github.com/da34/web-blog/issues/66)
+- [什么是树？](https://github.com/da34/web-blog/issues/67)
 
 
 
